@@ -3,7 +3,7 @@ import { Children } from "react";
 
 export const metadata = {
   title: "Promptu",
-  description: "Discover & share the most useful AI prompts",
+  description: "Discover & share the most useful AI prompts.",
 };
 
 const RootLayout = () => {
